@@ -1,0 +1,43 @@
+.header
+{
+	height: 80px;
+	width: 100%;
+	background-color: black;
+}
+.header ul
+{
+	display: inline-block;
+}
+.header ul li
+{
+	display: inline-block;
+}
+.header ul li a
+{
+	font-size: 15pt;
+	color: white;
+	text-decoration: none;
+}
+.header ul li a:hover
+{
+	background-color: blue;	
+}
+.footer
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+		
+}
+.content
+{
+	width: 100%;
+	height: 300px;
+}
+
+
+
+
+
+
+
